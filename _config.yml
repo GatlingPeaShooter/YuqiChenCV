@@ -62,12 +62,25 @@ content:
         description: | # this will include new lines to allow paragraphs
           This was my first study abroad experience, and it was also the first time I experienced a different way of thinking about research. Changing to a new field put me at the starting point once again, asking questions with the trouble I met, and even going so far as to make every mistake that a beginner has ever made. I am looking forward to the person I will be when I graduate years from now.
 
-  - title: Publications
+  - title: Working
     layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title:  Xizhi AI Education.
+        caption: 2022 - 2024
+        sub_title: Software Engineer Internship.
+        Major: Visually Rich Document Information Extraction.
+        quote: >
+          Xizhi AI Education is a company dedicated to the development of automated problem solving models, famous for develop Eva Tutor App.
+        description: | # this will include new lines to allow paragraphs
+          I was responsible for extracting certain important information from the user's questions to use as input for the solution model. 
+          After the emergence of LLMs, I was responsible for experiments with prompt and locally deploy of some models.
+
+  - title: Publications
+    layout: text # Type of content section (list/text)
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in AIs, some of my other interests and hobbies are:
-      - Ping-pong
-      - Gaming
+      - [Span-based dual-decoder framework for aspect sentiment triplet extraction](https://www.sciencedirect.com/science/article/abs/pii/S0925231222003897)
+      - [ASpan-level Bidirectional Network for Aspect Sentiment Triplet Extraction](https://aclanthology.org/2022.emnlp-main.289.pdf)
 
   - title: A Little More About Me
     layout: text
