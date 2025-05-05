@@ -9,7 +9,7 @@ version: 2
 name: Yuqi Chen
 title: Phd Student in Washington University in St. Louis
 email: chen.yuqi@wustl.edu
-
+website: Download Link(https://GatlingPeaShooter.github.io/YuqiChenCV/YuqiChen CV.pdf)
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -18,10 +18,10 @@ darkmode: false
 github_username:  GatlingPeaShooter
 
 # Additional icon links
-additional_links:
-- title: Download Link
-  icon: images/download-solid.jpg
-  url: https://GatlingPeaShooter.github.io/YuqiChenCV/YuqiChen CV.pdf
+#additional_links:
+#- title: Download Link
+#  icon: images/download-solid.jpg
+#  url: https://GatlingPeaShooter.github.io/YuqiChenCV/YuqiChen CV.pdf
 # - title: another link
 
 
