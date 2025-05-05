@@ -20,9 +20,9 @@ github_username:  GatlingPeaShooter
 # about_title: About Me
 about_profile_image: images/Photo of Chen yuqi.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Yuqi Chen and I'm currently a Ph.D student. Now, l major in personalized Large Language Models(LLM).
+  Hi, my name's Yuqi Chen and I'm currently a Ph.D student. Now, my research interest is in <mark>Personalized Large Language Models(LLM)</mark>.
 
-  I am most skilled in: <mark>Sentiment Analysis</mark> and <mark>Information Extraction</mark>
+  My prior research area: <mark>Sentiment Analysis</mark> and <mark>Information Extraction</mark>
 
 content:
   - title: Education # Title for the section
