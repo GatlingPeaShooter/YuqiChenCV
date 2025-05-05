@@ -62,7 +62,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           This was my first study abroad experience, and it was also the first time I experienced a different way of thinking about research. Changing to a new field put me at the starting point once again, asking questions with the trouble I met, and even going so far as to make every mistake that a beginner has ever made. I am looking forward to the person I will be when I graduate years from now.
 
-  - title: Working
+  - title: Work
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -79,8 +79,8 @@ content:
   - title: Publications
     layout: text # Type of content section (list/text)
     content: | # this will include new lines to allow paragraphs
-      - [Span-based dual-decoder framework for aspect sentiment triplet extraction](https://www.sciencedirect.com/science/article/abs/pii/S0925231222003897)
-      - [ASpan-level Bidirectional Network for Aspect Sentiment Triplet Extraction](https://aclanthology.org/2022.emnlp-main.289.pdf)
+      - [Chen Y, Zhang Z, Zhou G, et al. Span-based dual-decoder framework for aspect sentiment triplet extraction[J]. Neurocomputing, 2022, 492: 211-221.](https://www.sciencedirect.com/science/article/abs/pii/S0925231222003897)
+      - [Chen Y, Chen K, Sun X, et al. A span-level bidirectional network for aspect sentiment triplet extraction[J]. arXiv preprint arXiv:2204.12674, 2022.](https://aclanthology.org/2022.emnlp-main.289.pdf)
 
   - title: A Little More About Me
     layout: text
