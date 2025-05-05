@@ -51,8 +51,9 @@ content:
           During this time I was introduced to research on a large scale, from the first time I read a paper, the first time I reproduced methods, the first line of experimental code I wrote, to eventually the first time I wrote my own papers and the first time my papers were accepted. This experience is one of my most precious memories.
           
           And i published two papers in this period, check section Publications for details.
+
       - layout: left
-        title:  Ph.D, Phd Student in Washington University in St. Louis
+        title:  Ph.D, Washington University in St. Louis
         caption: 2024 - current
         sub_title: McKelvey School of Engineering.
         Major: LLMs, mainly in personalized LLM.
@@ -70,18 +71,10 @@ content:
 
   - title: A Little More About Me
     layout: text
-    content:
-      - layout: middle
-        title: Bachelor, Xidian University
-        caption: 2015 - 2019
-        sub_title:  School of Aerospace Scienceand Technology, TsienHsueshen experimental class.
-        Major: Space Science and Technology
-        quote: >
-          Established in 1931, Xidian is famous for its specialty in electronics and information technology, and for its excellent education and research capabilities in electronics-related disciplines such as communications engineering and electrical engineering.
-        description: | # this will include new lines to allow paragraphs
-          During my time at Xidian I learnt most of my key skills that have been useful even now, such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-        Honor: Second Prize of China-Russia Universities Small Satellite Innovation Design Competition
+    content: | # this will include new lines to allow paragraphs
+      Alongside my interests in AIs, some of my other interests and hobbies are:
+      - Ping-pong
+      - Gaming
 
 #      Look at this cool image
 #      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
