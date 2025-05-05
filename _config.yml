@@ -16,10 +16,8 @@ darkmode: false
 # Social links
 github_username:  GatlingPeaShooter
 
-resources:
-  manual:
-    title: "CV for Yuqi Chen"
-    url: "https://GatlingPeaShooter.github.io/YuqiChenCV/YuqiChen CV.pdf"
+download_link: "https://GatlingPeaShooter.github.io/YuqiChenCV/YuqiChen CV.pdf"
+
 
 # About Section
 # about_title: About Me
