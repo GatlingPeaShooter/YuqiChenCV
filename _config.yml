@@ -16,8 +16,9 @@ darkmode: false
 # Social links
 github_username:  GatlingPeaShooter
 
-download_link: [download link](https://GatlingPeaShooter.github.io/YuqiChenCV/YuqiChen CV.pdf)
-
+links:
+  - text: "download link"
+    url: "https://GatlingPeaShooter.github.io/YuqiChenCV/YuqiChen CV.pdf"
 
 # About Section
 # about_title: About Me
