@@ -15,40 +15,14 @@ darkmode: false
 
 # Social links
 github_username:  GatlingPeaShooter
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
-# xing_username: jekyll
-# pinterest_username: jekyll
-youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
-
-# Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
-
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/Photo of Chen yuqi.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Yuqi Chen and I'm currently a Ph.D student. Now, l major in personalized Large Language Models(LLM).
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>Sentiment Analysis</mark> and <mark>Information Extraction</mark>
 
 content:
   - title: Projects # Title for the section
@@ -88,6 +62,16 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: Xidian University
+        caption: 2015 - 2019
+        sub_title:  School of Aerospace Scienceand Technology, TsienHsueshen experimental class.
+        quote: >
+          Established in 1931, Xidian is famous for its specialty in electronics and information technology, and for its excellent education and research capabilities in electronics-related disciplines such as communications engineering and electrical engineering.
+        description: | # this will include new lines to allow paragraphs
+          During my time at Xidian I learnt most of my key skills that have been useful even now, such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+
+        Honor: Second Prize of China-Russia Universities Small Satellite Innovation Design Competition
+      - layout: left
         title: Harvard University
         caption: 2010 - 2013
         sub_title: BSc Computer Science
@@ -101,14 +85,12 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
+      Alongside my interests in AIs, some of my other interests and hobbies are:
+      - Ping-pong
       - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+#      Look at this cool image
+#      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
