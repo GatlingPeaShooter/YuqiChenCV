@@ -20,7 +20,7 @@ github_username:  GatlingPeaShooter
 # Additional icon links
 additional_links:
 - title: Download Link
-  icon: fab fa-download
+  icon: fa-solid fa-file-arrow-down
   url: https://GatlingPeaShooter.github.io/YuqiChenCV/YuqiChen CV.pdf
 # - title: another link
 
