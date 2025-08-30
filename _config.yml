@@ -59,17 +59,27 @@ content:
         description: | # this will include new lines to allow paragraphs
           During this time I was introduced to research on a large scale, from the first time I read a paper, the first time I reproduced methods, the first line of experimental code I wrote, to eventually the first time I wrote my own papers and the first time my papers were accepted. This experience is one of my most precious memories.
           
-          And i published two papers in this period, check section Publications for details.
+          I published two papers in this period, check section Publications for details.
 
       - layout: left
         title:  Ph.D, Washington University in St. Louis
-        caption: 2024 - current
+        caption: 2024 - 2025
         sub_title: McKelvey School of Engineering.
         Major: LLMs, mainly in personalized LLM.
         quote: >
           Washington University in St. Louis (WashU) is a private research university in St. Louis, Missouri, United States. Established in 1853 by a group of civic leaders, it was named for George Washington.
         description: | # this will include new lines to allow paragraphs
           This was my first study abroad experience, and it was also the first time I experienced a different way of thinking about research. Changing to a new field put me at the starting point once again, asking questions with the trouble I met, and even going so far as to make every mistake that a beginner has ever made. I am looking forward to the person I will be when I graduate years from now.
+
+      - layout: left
+        title: Ph.D, UC Santa Cruz (Transfer)
+        caption: 2025 - current
+        sub_title: Baskin School of Engineering
+        Major: LLMs, mainly in personalized LLM.
+        quote: >
+          The University of California, Santa Cruz (UCSC) is a leading public research university located along the scenic coastline of Northern California. Founded in 1965, UCSC combines the intimacy of a small liberal arts college with the depth and rigor of a major research institution. The campus is renowned for its stunning natural setting, nestled among redwood forests overlooking the Pacific Ocean, and for its innovative approach to interdisciplinary education.
+        description: | # this will include new lines to allow paragraphs
+          Transfer to UCSC with my advisor。 Currently involved in multiple ongoing projects, including knowledge graph construction, LLM agent design, etc.
 
   - title: Work
     layout: list # Type of content section (list/text)
